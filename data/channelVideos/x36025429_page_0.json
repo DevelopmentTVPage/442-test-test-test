@@ -1,0 +1,50 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "7798135",
+            "title": "MagnaFlow's Rides of SEMA 2015",
+            "date_created": "1448045791",
+            "loginId": "1758237",
+            "tags": "Magnaflow, exhaust, muffler, SEMA 2015",
+            "description": "Join us as we drive deep into MagnaFlow's booth at SEMA 2015 and take an up-close look at the rides they brought along for the fun.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0c4JcyOe2dU\/hqdefault.jpg",
+                "uploadDate": 1448045791,
+                "videoId": "0c4JcyOe2dU",
+                "title": "MagnaFlow's Rides of SEMA 2015",
+                "description": "Every year MagnaFlow Exhaust has a massive presence inside and out at the SEMA Show. Check out this video recap showing some of the incredible builds featured at the show. #withauthority",
+                "author": "magnaflowtv",
+                "mediaDuration": "138",
+                "prettyDuration": "00:02:18",
+                "views": "44"
+            },
+            "parentId": "36025429",
+            "url": "\/pdp-player-embed-channel\/magnaflow-s-rides-of-sema-2015\/36025429-7798135"
+        },
+        {
+            "id": "59916616",
+            "title": "AutoAnything Creator Challenge",
+            "date_created": "1459472789",
+            "loginId": "1758237",
+            "tags": "",
+            "description": ".",
+            "asset": {
+                "type": "youtube",
+                "author": "AutoAnything",
+                "hdvFlag": 1,
+                "hookText": "",
+                "tags": "",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/1758237\/canvas\/655\/368\/641400487-021280676.png",
+                "videoId": "k_3gwiLR_-s",
+                "mediaDuration": 86,
+                "prettyDuration": "00:01:26",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "36025429",
+            "url": "\/pdp-player-embed-channel\/autoanything-creator-challenge\/36025429-59916616"
+        }
+    ]
+}

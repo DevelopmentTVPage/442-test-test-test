@@ -23,6 +23,8 @@
     "id": "6410870",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "257",
+    "entityIdParent": "6410237",
     "titleTextEncoded": "How-to-Install-the-Access-Adarac-Truck-Bed-Ladder-Rack",
     "category": null,
     "duration": "293",
@@ -41,7 +43,14 @@
         "hookText": "Buy Here: http:\/\/www.autoanything.com\/truck-racks\/60A5518A0A0.aspx\n\nAdd extra utility to your rig with no drilling or bed modifications needed with the Access Adarac Truck Rack. Start by loosely bolting the included rails and spacer plates to the top of y"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

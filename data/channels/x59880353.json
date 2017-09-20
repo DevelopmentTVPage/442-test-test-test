@@ -1,0 +1,24 @@
+{
+    "title": "EBC Brakes",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1459182771",
+    "date_modified": "1466184220",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "59880353",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "EBC-Brakes",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "245723734-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "245723734-032600369.jpg"
+    },
+    "transcripts": null
+}

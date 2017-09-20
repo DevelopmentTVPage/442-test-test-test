@@ -1,0 +1,24 @@
+{
+    "title": "Exhaust Sounds",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1442426983",
+    "date_modified": "1494451118",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "6410234",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "Exhaust-Sounds",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "482941646-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "482941646-01600338.png"
+    },
+    "transcripts": null
+}

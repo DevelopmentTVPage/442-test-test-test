@@ -23,6 +23,8 @@
     "id": "6410872",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "19",
+    "entityIdParent": "6410236",
     "titleTextEncoded": "Dyno-Run-Mitsubishi-Lancer-2008-09-body-with-a-Takeda-Short-Ram-Intake",
     "category": null,
     "duration": "87",
@@ -41,7 +43,14 @@
         "hookText": "This Mitsubishi Lancer gets dynoed with a Takeda Short Ram Air Intake from AFE. The Lancer's only modification is the SRI and it nets +6 horsepower and +7 ft-lbs of torque. \n\nFind out how much power your vehicle can gain with a Takeda Intake by heading ov"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -1,0 +1,25 @@
+{
+    "title": "Performance Parts",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1426017645",
+    "date_modified": "1426043327",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3826597",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "Performance-Parts",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "891316012-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "autoPlay": 0,
+        "canvasCropped": "891316012-088400313.png"
+    },
+    "transcripts": null
+}

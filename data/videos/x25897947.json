@@ -23,6 +23,8 @@
     "id": "25897947",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "72",
+    "entityIdParent": "6410235",
     "titleTextEncoded": "2015-Subaru-WRX-STI-Everything-You-Need-To-Know-AFTER-DRIVE",
     "category": "",
     "duration": "1820",
@@ -40,7 +42,14 @@
         "views": "484652"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -1,0 +1,25 @@
+{
+    "title": "Gibson Exhaust",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1458929155",
+    "date_modified": "1466188592",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "36895294",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "Gibson-Exhaust",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "595139512-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "autoPlay": 0,
+        "canvasCropped": "595139512-001000564.jpg"
+    },
+    "transcripts": null
+}

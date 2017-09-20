@@ -1,0 +1,24 @@
+{
+    "title": "Eibach",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1454439469",
+    "date_modified": "1466180100",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "26016810",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "Eibach",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "551987944-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "551987944-011200675.jpg"
+    },
+    "transcripts": null
+}

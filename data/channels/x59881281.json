@@ -1,0 +1,24 @@
+{
+    "title": "Spyder Auto",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1459187284",
+    "date_modified": "1466181925",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "59881281",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "Spyder-Auto",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "892528158-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "892528158-016600355.jpg"
+    },
+    "transcripts": null
+}
