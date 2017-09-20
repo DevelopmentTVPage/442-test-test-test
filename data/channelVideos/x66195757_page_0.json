@@ -1,0 +1,185 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "66185477",
+            "title": "Truck Hero Commercial 2",
+            "date_created": "1465929796",
+            "loginId": "1758237",
+            "tags": "Tonneau Covers, Truck Bed Covers, Extang, Bak, undercover, truxedo, retrax, Tonneau",
+            "description": "Truck Hero Tonneau Covers",
+            "asset": {
+                "user": {
+                    "firstName": "jeff",
+                    "lastName": "",
+                    "emailAddress": "jheiden@autoanything.com"
+                },
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 960,
+                    "height": 540
+                },
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185477\/ad7b5\/thumb-632a7b19f3732442a5bf59104c44954d-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185477\/ad7b5\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185477\/ad7b5\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185477\/ad7b5\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185477\/ad7b5\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185477\/ad7b5\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185477\/ad7b5\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "66195757",
+            "url": "\/truck-hero\/truck-hero-commercial-2\/66195757-66185477"
+        },
+        {
+            "id": "66185476",
+            "title": "Truck Hero Commercial 3",
+            "date_created": "1465929772",
+            "loginId": "1758237",
+            "tags": "Tonneau Covers, Truck Bed Covers, Extang, Bak, undercover, truxedo, retrax, Tonneau",
+            "description": "Truck Hero Tonneau Covers",
+            "asset": {
+                "user": {
+                    "firstName": "jeff",
+                    "lastName": "",
+                    "emailAddress": "jheiden@autoanything.com"
+                },
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 960,
+                    "height": 540
+                },
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185476\/9fa5d\/thumb-25c6a287c6f401fc4cee2fea4f08bb95-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185476\/9fa5d\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185476\/9fa5d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185476\/9fa5d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185476\/9fa5d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185476\/9fa5d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185476\/9fa5d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "66195757",
+            "url": "\/truck-hero\/truck-hero-commercial-3\/66195757-66185476"
+        },
+        {
+            "id": "66185478",
+            "title": "Truck Hero Commercial 1",
+            "date_created": "1465929814",
+            "loginId": "1758237",
+            "tags": "Tonneau Covers, Truck Bed Covers, Extang, Bak, undercover, truxedo, retrax, Tonneau",
+            "description": "Truck Hero Tonneau Covers",
+            "asset": {
+                "user": {
+                    "firstName": "Jeff",
+                    "lastName": "",
+                    "emailAddress": "jheiden@autoanything.com"
+                },
+                "videoMeta": {
+                    "duration": "30",
+                    "width": 960,
+                    "height": 540
+                },
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/thumb-8a2614ed986fe142a120bd92caa2f99e-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 960,
+                        "height": 540
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758237\/66185478\/c8361\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "66195757",
+            "url": "\/truck-hero\/truck-hero-commercial-1\/66195757-66185478"
+        }
+    ]
+}

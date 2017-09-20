@@ -1,0 +1,25 @@
+{
+    "title": "Homepage Videos",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1449265461",
+    "date_modified": "1452709063",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "9998265",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "Homepage-Videos",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\n RE::videos(\n  RE::condition()\n   ->lastNDays(30)\n   ->compare(\"status\", \"approved\")\n   ->order('dateCreated')\n )\n);",
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

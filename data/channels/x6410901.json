@@ -1,0 +1,24 @@
+{
+    "title": "Truck Fanatics",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1442518816",
+    "date_modified": "1442525122",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6410901",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "Truck-Fanatics",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "567097428-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "567097428-01600338.png"
+    },
+    "transcripts": null
+}

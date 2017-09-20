@@ -1,0 +1,49 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "6807499",
+            "title": "Torture Test: ProZ LED Light Bar",
+            "date_created": "1433971640",
+            "loginId": "1758237",
+            "tags": "ProZ, light bar, LED, off-road, lights",
+            "description": "From sledge hammers to shotguns, ProZ LED light bars proved their toughness and quality all the way to the end.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/A2UgnLWNVGw\/hqdefault.jpg",
+                "uploadDate": 1433971640,
+                "videoId": "A2UgnLWNVGw",
+                "title": "ProZ LED Light Bar Torture Test",
+                "description": "We took our ProZ LED Light Bars to the deserts of California and put them to the ultimate test. From dragging it through sand and dust to beating it with a sledge hammer - our lights proved their toughness and quality over and over again. Check out this video to see if we finally found their match...\n\nFor more brand and product information check us out at www.prozauto.com or like us on Facebook, Twitter or Instagram.",
+                "author": "PROZ",
+                "mediaDuration": "94",
+                "prettyDuration": "00:01:34",
+                "views": "288"
+            },
+            "parentId": "6807948",
+            "url": "\/proz\/torture-test-proz-led-light-bar\/6807948-6807499"
+        },
+        {
+            "id": "6807498",
+            "title": "Features & Benefits of ProZ LED Light Bars",
+            "date_created": "1433973648",
+            "loginId": "1758237",
+            "tags": "ProZ, light bar, off road lights, LED",
+            "description": "See how ProZ LED Light Bars illuminate even the darkest terrain including the pitch black deserts of California.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/7CP1jTd0uOs\/hqdefault.jpg",
+                "uploadDate": 1433973648,
+                "videoId": "7CP1jTd0uOs",
+                "title": "ProZ LED Light Bar Off-Road Lifestyle",
+                "description": "We took our ProZ LED Light Bars to the deserts of California to light up the darkest canyon. Check out this video to see how our light bars perform in the darkest night...\n\nFor more brand and product information check us out at www.prozauto.com or like us on Facebook, Twitter or Instagram.",
+                "author": "PROZ",
+                "mediaDuration": "70",
+                "prettyDuration": "00:01:10",
+                "views": "213"
+            },
+            "parentId": "6807948",
+            "url": "\/proz\/features-benefits-of-proz-led-light-bars\/6807948-6807498"
+        }
+    ]
+}

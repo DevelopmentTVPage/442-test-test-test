@@ -1,0 +1,24 @@
+{
+    "title": "Product Demos",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1442427247",
+    "date_modified": "1442525172",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6410236",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "Product-Demos",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "647907767-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "647907767-01600338.png"
+    },
+    "transcripts": null
+}

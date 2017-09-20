@@ -1,0 +1,23 @@
+{
+    "title": "SEMA Show Coverage",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1448399661",
+    "date_modified": "1452189242",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "7816112",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "SEMA-Show-Coverage",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}

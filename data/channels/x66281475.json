@@ -1,0 +1,24 @@
+{
+    "title": "Broadfeet Motorsports",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1466701099",
+    "date_modified": "1467224913",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "66281475",
+    "loginId": "1758237",
+    "entityType": "3",
+    "titleTextEncoded": "Broadfeet-Motorsports",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "autoPlay": 0
+    },
+    "transcripts": null
+}
