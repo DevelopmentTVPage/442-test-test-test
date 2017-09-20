@@ -23,8 +23,6 @@
     "id": "10253665",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "137",
-    "entityIdParent": "6410234",
     "titleTextEncoded": "Flowmasters-2009-to-2014-Ford-F-150-with-a-4-6L-or-5-0L-or-5-4L-engine-kit-817478",
     "category": "",
     "duration": "32",
@@ -42,20 +40,7 @@
         "views": "35967"
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -23,8 +23,6 @@
     "id": "6411066",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "20",
-    "entityIdParent": "6410901",
     "titleTextEncoded": "Comparison-Ford-Raptor-vs-Ram-Runner",
     "category": null,
     "duration": "733",
@@ -41,20 +39,7 @@
         "prettyDuration": "00:12:13"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

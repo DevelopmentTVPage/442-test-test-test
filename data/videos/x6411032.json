@@ -23,8 +23,6 @@
     "id": "6411032",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "171",
-    "entityIdParent": "6410235",
     "titleTextEncoded": "Comparision-BMW-M135-vs-VW-Golf-GTI-Top-Gear",
     "category": null,
     "duration": "474",
@@ -41,14 +39,7 @@
         "prettyDuration": "00:07:54"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -23,8 +23,6 @@
     "id": "10253509",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "18",
-    "entityIdParent": "6410234",
     "titleTextEncoded": "Flowmaster-American-Thunder-Cat-back-System-2014-2016-Silverado-Sierra-1500-PN-817669",
     "category": "",
     "duration": "105",
@@ -42,20 +40,7 @@
         "views": "62295"
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -23,8 +23,6 @@
     "id": "25898150",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "45",
-    "entityIdParent": "6410235",
     "titleTextEncoded": "Ferrari-F40-v-Ferrari-F50-Like-You-ve-Never-Seen-Them-Before-CHRIS-HARRIS-ON-CARS",
     "category": "",
     "duration": "1328",
@@ -42,14 +40,7 @@
         "views": "3125981"
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -23,8 +23,6 @@
     "id": "6649759",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "35",
-    "entityIdParent": "6410234",
     "titleTextEncoded": "Exhaust-Sound-MagnaFlow-Street-Competition-Series-Part-19100-19101-on-a-2015-Ford-Mustang-GT-V8-5L",
     "category": null,
     "duration": "94",
@@ -42,20 +40,7 @@
         "views": "74484"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

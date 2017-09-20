@@ -23,8 +23,6 @@
     "id": "6411033",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "168",
-    "entityIdParent": "6410235",
     "titleTextEncoded": "Comparison-Porsche-918-vs-McLaren-P1-Top-Gear",
     "category": null,
     "duration": "483",
@@ -41,14 +39,7 @@
         "prettyDuration": "00:08:03"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

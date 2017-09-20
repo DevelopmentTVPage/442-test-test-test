@@ -23,8 +23,6 @@
     "id": "65966298",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "40",
-    "entityIdParent": "3826597",
     "titleTextEncoded": "Available-6-1-2016-Flowmaster-Outlaw-Cat-back-2005-2010-Mustang-GT-w-4-6L-or-5-4L-V8-817515",
     "category": "",
     "duration": 58,
@@ -44,20 +42,7 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

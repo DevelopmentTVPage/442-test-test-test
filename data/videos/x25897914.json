@@ -23,8 +23,6 @@
     "id": "25897914",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "82",
-    "entityIdParent": "6410235",
     "titleTextEncoded": "A-Blind-Crest-and-a-3-Story-Drop-The-Corkscrew-at-Laguna-Seca-MOMO",
     "category": "",
     "duration": "226",
@@ -42,14 +40,7 @@
         "views": "170451"
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

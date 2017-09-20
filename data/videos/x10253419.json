@@ -23,8 +23,6 @@
     "id": "10253419",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "158",
-    "entityIdParent": "6410234",
     "titleTextEncoded": "Flowmaster-Force-II-Cat-back-Exhaust-System-2015-2016-Ford-F-150-3-5L-TiVCT-817727",
     "category": "",
     "duration": "57",
@@ -42,14 +40,7 @@
         "views": "2181"
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

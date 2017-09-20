@@ -23,8 +23,6 @@
     "id": "6410875",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "16",
-    "entityIdParent": "6410236",
     "titleTextEncoded": "Dyno-Run-Lexus-IS350-2006-09-with-a-Takeda-Cold-Air-Intake",
     "category": null,
     "duration": "74",
@@ -43,14 +41,7 @@
         "hookText": "A Lexus IS350 on the dyno with a Cold Air Intake from  Takeda (AFE). The IS350's only modification is the CAI and it nets +13 horsepower and +11 ft-lbs of torque. \r\n\r\nFind out how much power your vehicle can gain with a Takeda Intake by heading over to Au"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

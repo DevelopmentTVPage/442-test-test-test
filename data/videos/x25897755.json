@@ -23,8 +23,6 @@
     "id": "25897755",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "131",
-    "entityIdParent": "6410235",
     "titleTextEncoded": "GT3-Racing-in-Slow-Motion-MOMO-SlowMo",
     "category": "",
     "duration": "151",
@@ -42,14 +40,7 @@
         "views": "34191"
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

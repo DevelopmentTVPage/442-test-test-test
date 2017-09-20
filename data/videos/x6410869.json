@@ -23,8 +23,6 @@
     "id": "6410869",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "184",
-    "entityIdParent": "6410234",
     "titleTextEncoded": "Exhaust-Sound-Flowmaster-Hushpower-Axle-Back-Exhaust-on-2011-Mustang-GT",
     "category": null,
     "duration": "84",
@@ -43,14 +41,7 @@
         "hookText": "Free Shipping on Hushpower Exhaust: http:\/\/www.autoanything.com\/exhausts-mufflers\/20A54814A1.aspx\n\nThis 2011 Mustang GT has the new 5.0 V8 engine from Ford. The stock exhaust sounded pretty good, but this Hushpower system from Flowmaster makes is sound le"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

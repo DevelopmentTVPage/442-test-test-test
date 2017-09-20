@@ -23,8 +23,6 @@
     "id": "6649868",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "97",
-    "entityIdParent": "6410234",
     "titleTextEncoded": "Exhaust-Sound-2012-Dodge-Durango-V8-R-T-with-a-MagnaFlow-Exhaust",
     "category": null,
     "duration": "34",
@@ -42,14 +40,7 @@
         "views": "26897"
     },
     "transcripts": null,
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

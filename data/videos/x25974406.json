@@ -23,8 +23,6 @@
     "id": "25974406",
     "loginId": "1758237",
     "entityType": "1",
-    "sortOrder": "6",
-    "entityIdParent": "6410234",
     "titleTextEncoded": "2013-Jeep-Wrangler-MagnaFlow-Performance-Exhaust-Soundclip",
     "category": "",
     "duration": "15",
@@ -42,20 +40,7 @@
         "views": "91"
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        },
-        "CVV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "conversion_score": {
-                "lastUpdatedDate": "2017-05-25"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null
