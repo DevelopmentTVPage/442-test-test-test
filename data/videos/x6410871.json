@@ -23,6 +23,8 @@
     "id": "6410871",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "18",
+    "entityIdParent": "6410902",
     "titleTextEncoded": "How-to-Install-BBK-Power-Plus-Throttle-Body-on-2005-2009-Ford-Mustang",
     "category": null,
     "duration": "539",
@@ -41,7 +43,20 @@
         "hookText": "Free Shipping on BBK Throttle Bodies: http:\/\/www.autoanything.com\/air-intakes\/73A4289A0A0.aspx\n\nBBK throttle bodies are an excellent bolt-on modification for Ford Mustangs. Install moderately hard and does require a Digital Multi Meter, so be sure to have"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null
