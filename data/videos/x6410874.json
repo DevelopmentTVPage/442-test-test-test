@@ -23,6 +23,8 @@
     "id": "6410874",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "17",
+    "entityIdParent": "6410236",
     "titleTextEncoded": "Dyno-Run-Mazda3-2004-09-with-a-Takeda-Cold-Air-Intake",
     "category": null,
     "duration": "113",
@@ -41,7 +43,14 @@
         "hookText": "Buy a Takeda Intake: http:\/\/www.autoanything.com\/air-intakes\/73A5155A0A0.aspx\n\nThis Mazda3 gets dynoed with a Takeda Cold Air Intake from AFE. The Mazda3's only modification is the CAI and it gains an additional +7 Horsepower and +10 Ft-lbs of Torque!\n\nFi"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

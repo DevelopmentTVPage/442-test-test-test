@@ -23,6 +23,8 @@
     "id": "67595777",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "44",
+    "entityIdParent": "3826597",
     "titleTextEncoded": "How-To-Install-a-K-N-Air-Intake-on-a-2012-2014-Chevy-Camaro-3-6L",
     "category": "",
     "duration": 351,
@@ -42,7 +44,14 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

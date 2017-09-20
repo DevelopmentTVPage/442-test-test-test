@@ -23,6 +23,8 @@
     "id": "6410311",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "266",
+    "entityIdParent": "6410237",
     "titleTextEncoded": "How-to-Install-Putco-Locker-Truck-Bed-Rails",
     "category": null,
     "duration": "132",
@@ -39,7 +41,14 @@
         "prettyDuration": "00:02:12"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

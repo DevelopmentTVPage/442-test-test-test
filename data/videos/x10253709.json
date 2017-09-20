@@ -23,6 +23,8 @@
     "id": "10253709",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "110",
+    "entityIdParent": "6410234",
     "titleTextEncoded": "1998-Dodge-Ram-with-Flowmaster-Super-44-Exhaust",
     "category": "",
     "duration": "28",
@@ -40,7 +42,14 @@
         "views": "51646"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

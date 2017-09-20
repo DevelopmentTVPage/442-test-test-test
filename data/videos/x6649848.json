@@ -23,6 +23,8 @@
     "id": "6649848",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "176",
+    "entityIdParent": "6410234",
     "titleTextEncoded": "Exhaust-Sound-MagnaFlow-Exhaust-on-a-2013-Chevy-Malibu-L4-2-5L",
     "category": null,
     "duration": "59",
@@ -40,7 +42,14 @@
         "views": "9702"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null
