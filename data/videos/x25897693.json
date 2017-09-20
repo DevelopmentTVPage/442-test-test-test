@@ -23,6 +23,8 @@
     "id": "25897693",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "158",
+    "entityIdParent": "6410235",
     "titleTextEncoded": "Crazy-1000HP-Minivan-1000HP-911-TUNED",
     "category": "",
     "duration": "697",
@@ -40,7 +42,14 @@
         "views": "1307872"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

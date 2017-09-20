@@ -23,6 +23,8 @@
     "id": "25898153",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "44",
+    "entityIdParent": "6410235",
     "titleTextEncoded": "Original-Stock-Car-1966-Coronet-BIG-MUSCLE",
     "category": "",
     "duration": "686",
@@ -40,7 +42,14 @@
         "views": "173127"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

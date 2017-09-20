@@ -23,6 +23,8 @@
     "id": "35901137",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "12",
+    "entityIdParent": "36895294",
     "titleTextEncoded": "Chevrolet-Suburban-1500-5-3L-GMC-Yukon-XL-1500-5-3L",
     "category": "",
     "duration": 21,
@@ -42,7 +44,14 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

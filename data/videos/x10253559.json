@@ -23,6 +23,8 @@
     "id": "10253559",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "14",
+    "entityIdParent": "6410234",
     "titleTextEncoded": "09-13-Silverado-Sierra-Flowmaster-Force-II-Cat-back-Exhaust-System",
     "category": "",
     "duration": "311",
@@ -40,7 +42,20 @@
         "views": "32049"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

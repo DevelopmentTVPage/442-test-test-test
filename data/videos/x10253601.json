@@ -23,6 +23,8 @@
     "id": "10253601",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "141",
+    "entityIdParent": "6410234",
     "titleTextEncoded": "2004-2008-Ford-F-150-Lincoln-Mark-LT-Flowmaster-Stainless-Cat-Back-Exhaust-System-817417-17417",
     "category": "",
     "duration": "102",
@@ -40,7 +42,14 @@
         "views": "89441"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

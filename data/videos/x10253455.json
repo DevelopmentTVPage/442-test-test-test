@@ -23,6 +23,8 @@
     "id": "10253455",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "149",
+    "entityIdParent": "6410234",
     "titleTextEncoded": "Flowmaster-Outlaw-Cat-Back-Interior-2015-2016-Ford-F150-Trucks-all-engines-817726",
     "category": "",
     "duration": "49",
@@ -40,7 +42,14 @@
         "views": "14443"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

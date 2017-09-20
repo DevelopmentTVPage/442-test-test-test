@@ -23,6 +23,8 @@
     "id": "6410867",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "186",
+    "entityIdParent": "6410234",
     "titleTextEncoded": "Exhaust-Sound-Stainless-Works-Exhaust-and-X-Pipe-on-1968-Chevelle",
     "category": null,
     "duration": "9",
@@ -41,7 +43,14 @@
         "hookText": "Free Shipping on this Exhaust: http:\/\/autoanything.me\/StainlessWorks\n\nThe Chevelle was an icon of the muscle car era. It's big block dominated the streets. Although it sounded pretty good with the stock pipes, it really lets loose with a set of aftermarke"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

@@ -23,6 +23,8 @@
     "id": "10253557",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "25",
+    "entityIdParent": "6410234",
     "titleTextEncoded": "Flowmaster-Force-II-Stainless-Exhaust-System-for-the-2009-2016-Toyota-Tundra-817486",
     "category": "",
     "duration": "88",
@@ -40,7 +42,20 @@
         "views": "50299"
     },
     "transcripts": "",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null

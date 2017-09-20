@@ -23,6 +23,8 @@
     "id": "6410921",
     "loginId": "1758237",
     "entityType": "1",
+    "sortOrder": "255",
+    "entityIdParent": "6410237",
     "titleTextEncoded": "How-to-Install-Access-Truck-Bed-LED-Lights",
     "category": null,
     "duration": "180",
@@ -41,7 +43,20 @@
         "hookText": "Buy Here: http:\/\/www.autoanything.com\/hitch-bed-accessories\/69A5623A0A0.aspx\n\nSee how easy it is to install Access Truck Bed LED lights in your rig with a few basic hand tools. The key here is hooking these lights to a readily available 12 volt power sour"
     },
     "transcripts": null,
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        },
+        "CVV_VI": {
+            "lastUpdatedDate": "2017-05-24",
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-25"
+            }
+        }
+    },
     "tvp_profiles": null,
     "tvp_profiles_manual": null,
     "tvp_profiles_maxscore": null
